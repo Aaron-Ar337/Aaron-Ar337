@@ -5,16 +5,16 @@
 
 
 - 💬 Ask me about **I am always learning programming languages.**
-- 🔭 I’m currently working on Coding
-- 🌱 I’m currently learning Javascript
-- 🌱 I’m currently learning **Javascript,Vuejs**
+- 🔭 I’m currently working on coding
+- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning **JavaScript ,Vuejs**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...I want to be a programmer
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...Girl programmer is more beautiful than others.
-- ⚡ Fun fact **When you write 500 lines of code And exit without saving it.**
+- ⚡ Fun fact: ... A Girl programmer is more beautiful than others.
+- ⚡ Fun fact **When you write 500 lines of code and exit without saving them.**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaron-Ar337&show_icons=true&theme=tokyonight)
 
